@@ -1,2 +1,3 @@
-# isaac-pwp
-my personal website project
+.Ds_Store
+/.idea
+/node_modules
