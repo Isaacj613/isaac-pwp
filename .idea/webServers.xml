@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="49a2876d-0257-4f45-b15c-dfa2074a06a9" name="isaac-pwp" url="https://ddc-web-student.cnm.edu/~ijardines/isaac-pwp">
+        <fileTransfer rootFolder="/home/ijardines/public_html/isaac-pwp" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="24aaaad0-5a8d-40ff-8916-d2c837079a8d" sshConfig="ijardines@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
