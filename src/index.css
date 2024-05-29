@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-.container {
-
+#myDiv {
+    background-image: url('https://cdn.pixabay.com/photo/2017/05/09/03/46/alberta-2297204_960_720.jpg');
+    /* Add other background properties like size, position, etc. */
 }
+ .container{
+     height: fit-content;
+ }
